@@ -1,0 +1,7 @@
+{
+  "name": "Event Connect Pro",
+  "description": "An application for event attendees to connect with each other based on shared interests and through QR code scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
